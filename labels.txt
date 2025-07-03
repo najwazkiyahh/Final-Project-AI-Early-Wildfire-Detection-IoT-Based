@@ -1,0 +1,2 @@
+0 Forest
+1 Forest_Fire
