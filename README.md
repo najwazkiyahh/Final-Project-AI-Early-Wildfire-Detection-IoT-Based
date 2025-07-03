@@ -1,0 +1,2 @@
+# Final-Project-AI-Early-Wildfire-Detection-IoT-Based
+Detection of forest fires using AI camera and IoT sensors (MQ-5, DHT22). Camera will detect forest fires with object detection, data is captured, sent to the admin dashboard in real time. A fire warning notification popup appears. Graph displays temperature, humidity, and ppm data that changes automatically to adjust to conditions if a fire occurs.
